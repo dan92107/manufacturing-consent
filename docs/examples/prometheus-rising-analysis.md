@@ -135,3 +135,7 @@ Narrative: 15%
 Drift Check: Yes
 Bottom line:
 Good material, bad compression. Real mechanisms are present, but the framing pushes them into an overstated “hidden truth” worldview.
+
+## Concept Map (Structural Layer)
+
+[View concept graph JSON](data/prometheus-rising-graph.json)
